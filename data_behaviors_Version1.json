@@ -1,0 +1,41 @@
+{
+  "behaviors": [
+    {
+      "name": "Söz almadan konuşmama",
+      "rewards": [
+        "Sessiz Kahraman Rozeti",
+        "5 Dakika Özgür Zaman",
+        "Mini Sınıf Oyunu: Sessiz Balıklar"
+      ],
+      "motivational_quotes": [
+        "Sessiz kalmak bazen en güçlü davranıştır.",
+        "Dikkatli dinleyenler, daha çok öğrenir."
+      ]
+    },
+    {
+      "name": "Ödevini zamanında teslim etme",
+      "rewards": [
+        "Zaman Yönetimi Rozeti",
+        "Mini Yarışma: Kim Zamanında?",
+        "Ekstra Puan"
+      ],
+      "motivational_quotes": [
+        "Zamanında iş yapmak başarının anahtarıdır.",
+        "Her teslim edilen ödev, bir adım ileridir."
+      ]
+    },
+    {
+      "name": "Arkadaşına yardım etme",
+      "rewards": [
+        "Yardımseverlik Rozeti",
+        "Sınıf Takdir Panosu",
+        "Mini Oyun: Yardım Zinciri"
+      ],
+      "motivational_quotes": [
+        "Birlikte daha güçlüyüz.",
+        "Yardım etmek, liderliğin ilk adımıdır."
+      ]
+    }
+    // Diğer davranışlar eklenebilir
+  ]
+}
