@@ -1,0 +1,13 @@
+/dijital-yerli-ogretmen-rehberi
+├── README.md
+├── src/
+│   └── App.jsx
+├── data/
+│   └── behaviors.json
+├── blog/
+│   └── dijital-iletişim-101.md
+├── docs/
+│   ├── akış-diyagramı.md
+│   └── ödül-tablosu.md
+└── assets/
+    └── readme-template.png (örnek görsel eklenebilir)
